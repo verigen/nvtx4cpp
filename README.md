@@ -2,6 +2,5 @@
 
 Simple RAII wrapper for NVTX profiling library.
 
-**Todo list:**
-- [ ] Check compatibility with C++11, C++14.
-- [ ] Check compatibility with other compilers than gcc 7.5
+This was written a while ago, and probably will not work with the most recent
+CUDA Toolkit versions.
